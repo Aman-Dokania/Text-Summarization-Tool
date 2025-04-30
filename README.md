@@ -8,7 +8,7 @@ A web application to quickly summarize large blocks of text into meaningful cont
 
 > 📸 Add your screenshot here
 
-![Screenshot](./screenshot.png)  
+![Screenshot](./ss.jpg)  
 
 
 ---
