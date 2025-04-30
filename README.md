@@ -48,3 +48,17 @@ A web application to quickly summarize large blocks of text into meaningful cont
 ```bash
 git clone https://github.com/yourusername/text-summarization-tool.git
 cd text-summarization-tool
+```
+## Setup Backend
+```bash
+cd summarizer_backend
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+## Set Frontend
+cd text-summarization-tool
+npm install
+npm run dev
