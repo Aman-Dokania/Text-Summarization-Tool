@@ -59,6 +59,8 @@ uvicorn main:app --reload
 ```
 
 ## Set Frontend
+```bash
 cd text-summarization-tool
 npm install
 npm run dev
+```
