@@ -6,9 +6,7 @@ A web application to quickly summarize large blocks of text into meaningful cont
 
 ## 🖼️ Screenshot
 
-> 📸 Add your screenshot here
-
-![Screenshot](./ss.jpg)  
+<img src="./ss.jpg" alt="App Screenshot" width="700"/>
 
 
 ---
