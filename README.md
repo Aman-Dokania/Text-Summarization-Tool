@@ -6,7 +6,7 @@ A web application to quickly summarize large blocks of text into meaningful cont
 
 ## 🖼️ Screenshot
 
-<img src="./ss.jpg" alt="App Screenshot" width="700"/>
+<img src="./ss.jpg" alt="App Screenshot" width="700" height="800"/>
 
 
 ---
